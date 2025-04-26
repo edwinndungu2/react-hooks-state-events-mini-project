@@ -18,7 +18,7 @@ data for the application is imported in `App`, so you'll need to pass that data
 down to the components that need it as props.
 
 Run `npm install` and `npm start`, then check out the starter code in the
-browser. You'll see a console message with the `TASK` and `CATEGORY` data you'll
+browser. You'll see a console message with the `TASK` and `CATEGORY` data you'lln
 need to pass down from `App`.
 
 ### TaskList
